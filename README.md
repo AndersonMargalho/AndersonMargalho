@@ -20,3 +20,6 @@ I specialize in AI Automation, building agentic workflows, and evaluating LLM pi
 
 ## 📫 Let's Connect
 - Email: andersonmargalho@gmail.com
+
+## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMargalho&show_icons=true&theme=radical)
