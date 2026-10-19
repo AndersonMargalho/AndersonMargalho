@@ -1,4 +1,4 @@
-# Hi there, I'm Anderson Margalho 👋
+# Hi there, I'm Anderson Dos Santos Margalho 👋
 
 Freelance Software Engineer & IT Consultant based in Belém, Brazil.
 I specialize in AI Automation, building agentic workflows, and evaluating LLM pipelines for production use.
@@ -7,6 +7,8 @@ I specialize in AI Automation, building agentic workflows, and evaluating LLM pi
 - 🤖 **AI Automation:** Building smart workflows with Make and Python.
 - 📊 **LLM Evaluation:** Benchmarking models (OpenAI, Anthropic, Google) via direct API calls.
 - 💻 **Data & Web:** SQL data analysis and JavaScript dashboard components.
+- 🎧 Audio Quality Evaluation: TTS, voice synthesis, sound design assessment
+-  Game UX Testing: Interactive interface and behavioral research participation
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
